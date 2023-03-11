@@ -16,4 +16,5 @@
 - Obtendo o endereço da máquina: `ifconfig`
 - URL para clone: [http://www.linkedin.com]
 
+### Resultados
 https://github.com/Sergio-Gabriell/phishing/blob/master/credential.png
