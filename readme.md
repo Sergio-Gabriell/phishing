@@ -17,5 +17,3 @@
 - URL para clone: [http://www.linkedin.com]
 
 ### Resutados
-
-![credential](C:\Users\sergi\Phishing para capturas de senhas\credential.png)
