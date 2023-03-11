@@ -18,4 +18,4 @@
 
 ### Resutados
 
-![Captura de tela 2023-03-11 163220](C:\Users\sergi\Phishing para capturas de senhas\Captura de tela 2023-03-11 163220.png)
+![credential](C:\Users\sergi\Phishing para capturas de senhas\credential.png)
