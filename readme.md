@@ -1,6 +1,6 @@
 # Phishing para captura de senhas do Linkedin
 
-## Projeto desenvolvido para estudar técnicas de engenharia social e prevenção de phishing em ambientes controlados. O objetivo do projeto foi adquirir conhecimentos sobre as táticas utilizadas pelos criminosos cibernéticos e desenvolver maneiras de prevenção e detecção dessas ameaças.
+## Projeto desenvolvido para fins de estudo e pesquisa de técnicas de engenharia social em ambientes controlados. O objetivo foi adquirir conhecimentos sobre as táticas utilizadas pelos criminosos cibernéticos e desenvolver maneiras de prevenção e detecção dessas ameaças. 
 
 ### Ferramentas
 
