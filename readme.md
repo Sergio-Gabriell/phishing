@@ -20,3 +20,5 @@
 
 ### Resultados 📈
 ![](credential.png)
+
+### ⚠️ Aviso Este projeto é apenas para fins educacionais e de pesquisa. Não use este software para atividades maliciosas. Não me responsabilizo por qualquer dano causado pelo uso inadequado.
